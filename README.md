@@ -1,4 +1,4 @@
-# Udacity-Behavioral-Cloning-
+# Udacity-Behavioral-Cloning
 
 The goals / steps of this project are the following:
 
